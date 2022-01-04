@@ -1,0 +1,22 @@
+version=1
+title=No Picking-Up Please!
+description=On some servers people keep picking-up containers so loot respawn won't happen. In that case you can use this mod.
+description=Picking-up is still allowed for the following containers:
+description=[list]
+description=[*]Barbecues
+description=[*]Fireplaces
+description=[*]Freezers
+description=[*]Fridges
+description=[*]Microwaves
+description=[*]Stoves
+description=[*]Woodstoves
+description=[/list]
+description=
+description=[img]https://i.imgur.com/p7Fv1Z6.gif[/img]
+description=
+description=[h1]Version[/h1]
+description=Latest version:
+description=
+Mod ID: NoPickingUpPlease
+tags=Build 41;Misc;Multiplayer
+visibility=public
